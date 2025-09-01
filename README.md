@@ -1,16 +1,12 @@
-# todo_app
+# Todo App Flutter
 
-A new Flutter project.
+## Descripción
+Entrega 1: Estructura base de la app con MaterialApp, Scaffold y UI estática.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Cómo ejecutar
+1. Clonar el repositorio:
+   git clone https://github.com/johablas/todo_app_flutter.git
+2. Abrir en VS Code o Android Studio
+3. Ejecutar:
+   flutter pub get
+   flutter run
